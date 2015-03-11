@@ -1,5 +1,7 @@
 # ddip
 
+**Scripts are not checked into Git yet**
+
 A very crude attempt in managing dynamic IPs.
 
 Have you had a moment when you want to SSH to your RPi at home but don't know the IP? I do too!
